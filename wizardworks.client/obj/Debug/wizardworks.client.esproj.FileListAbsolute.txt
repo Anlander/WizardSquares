@@ -1,1 +1,2 @@
 C:\Users\fille\source\repos\Wizardworks\wizardworks.client\obj\Debug\wizardworks.client.esproj.CoreCompileInputs.cache
+C:\Users\fille\dev\AddCubes\wizardworks.client\obj\Debug\wizardworks.client.esproj.CoreCompileInputs.cache

@@ -2,9 +2,11 @@
 
 namespace Wizardworks.Server.Models
 {
-    public class Square
-    {
-        public int position { get; set; }
-        public string? color { get; set; }
-    }
+  public class Square
+  {
+    public int Id { get; set; }
+    public string? Color { get; set; }
+    public int Column { get; set; }
+    public int Row { get; set; }
+  }
 }

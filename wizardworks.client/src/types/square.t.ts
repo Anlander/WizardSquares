@@ -1,5 +1,7 @@
 
 export interface SquareType {
   color: string;
-  position: string;
+  id: string;
+  column: number;
+  row: number;
 }

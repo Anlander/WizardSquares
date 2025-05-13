@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "aQ/2khekt1nmr1GfUpAXn4//9ftl1CXLMid3AbZywXk=",
+  "Hash": "Ks82VwVscdo/POU7Dlkq32Y1vAeVfo2v8RJwoJWgBZQ=",
   "Source": "Wizardworks.Server",
   "BasePath": "_content/Wizardworks.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\fille\\source\\repos\\Wizardworks\\wizardworks.client\\wizardworks.client.esproj",
+      "Identity": "C:\\Users\\fille\\dev\\AddCubes\\wizardworks.client\\wizardworks.client.esproj",
       "Version": 2,
       "Source": "wizardworks.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
@@ -19,6 +19,5 @@
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WORk2tT2J7Q=",
+  "dgSpecHash": "NreZgSPsnEA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fille\\source\\repos\\Wizardworks\\Wizardworks.Server\\Wizardworks.Server.csproj",
+  "projectFilePath": "C:\\Users\\fille\\dev\\AddCubes\\Wizardworks.Server\\Wizardworks.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fille\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.15\\microsoft.aspnetcore.spaproxy.8.0.15.nupkg.sha512",
     "C:\\Users\\fille\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
