@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "wizardworks.client", "wizardworks.client\wizardworks.client.esproj", "{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizardworks.Server", "Wizardworks.Server\Wizardworks.Server.csproj", "{CE3BAA96-6BB1-47DC-A501-AD9CAB6B78D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEFA7F1-0C25-3C55-5569-31C23C62BC86}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CE3BAA96-6BB1-47DC-A501-AD9CAB6B78D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3BAA96-6BB1-47DC-A501-AD9CAB6B78D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3BAA96-6BB1-47DC-A501-AD9CAB6B78D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3BAA96-6BB1-47DC-A501-AD9CAB6B78D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D221A2-C0C5-4298-A4E0-9D7B71AF8536}
+	EndGlobalSection
+EndGlobal

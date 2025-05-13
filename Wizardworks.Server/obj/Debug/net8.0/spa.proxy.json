@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56633",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\fille\\source\\repos\\Wizardworks\\Wizardworks.Server\\..\\wizardworks.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

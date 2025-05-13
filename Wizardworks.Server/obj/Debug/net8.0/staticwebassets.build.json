@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "aQ/2khekt1nmr1GfUpAXn4//9ftl1CXLMid3AbZywXk=",
+  "Source": "Wizardworks.Server",
+  "BasePath": "_content/Wizardworks.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\fille\\source\\repos\\Wizardworks\\wizardworks.client\\wizardworks.client.esproj",
+      "Version": 2,
+      "Source": "wizardworks.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
